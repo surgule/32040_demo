@@ -20,6 +20,8 @@ public class JavaApplication2 {
         int b=20;
         int c=a+b;
         // TODO code application logic here
+       System.out.print("sum"+c);
+       
         
         
     }
