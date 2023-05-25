@@ -16,8 +16,8 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         System.out.println("hello abd");
         
-        int a;
-        int b;
+        int a=10;
+        int b=20;
         int c=a+b;
         // TODO code application logic here
         
