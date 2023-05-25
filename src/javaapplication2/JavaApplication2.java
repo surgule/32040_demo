@@ -15,7 +15,13 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("hello abd");
+        
+        int a;
+        int b;
+        int c=a+b;
         // TODO code application logic here
+        
+        
     }
     
 }
